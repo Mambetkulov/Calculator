@@ -100,7 +100,7 @@ public class Calculator implements ActionListener {
 
     @Override
     public void actionPerformed(ActionEvent e) {
-        System.out.println("what");
+        System.out.println("");
         System.out.println("hi");
         System.out.println("t");
           for(int i = 0 ; i < 10 ; i++){
