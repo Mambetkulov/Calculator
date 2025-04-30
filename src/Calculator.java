@@ -100,7 +100,7 @@ public class Calculator implements ActionListener {
 
     @Override
     public void actionPerformed(ActionEvent e) {
-        System.out.println("git hello");
+        System.out.println("");
         System.out.println("git commit");
         System.out.println("git ");
           for(int i = 0 ; i < 10 ; i++){
