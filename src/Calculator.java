@@ -101,7 +101,7 @@ public class Calculator implements ActionListener {
     @Override
     public void actionPerformed(ActionEvent e) {
         System.out.println("hello");
-        System.out.println("");
+        System.out.println("n");
         System.out.println("u");
           for(int i = 0 ; i < 10 ; i++){
               if(e.getSource()== numberButtons[i]){
