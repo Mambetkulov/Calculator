@@ -103,7 +103,7 @@ public class Calculator implements ActionListener {
         
         System.out.println("spider man");
         System.out.println("tor");
-        System.out.println("hesko");
+        System.out.println("hisko");
           for(int i = 0 ; i < 10 ; i++){
               if(e.getSource()== numberButtons[i]){
                   textField.setText(textField.getText().concat(String.valueOf(i)));
