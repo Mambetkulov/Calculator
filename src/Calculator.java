@@ -102,7 +102,7 @@ public class Calculator implements ActionListener {
     public void actionPerformed(ActionEvent e) {
         
         System.out.println("who is than rat");
-        System.out.println("steins");
+        System.out.println("why you do itk");
         System.out.println("no clue");
           for(int i = 0 ; i < 10 ; i++){
               if(e.getSource()== numberButtons[i]){
