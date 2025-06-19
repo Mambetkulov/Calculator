@@ -103,7 +103,7 @@ public class Calculator implements ActionListener {
         
         System.out.println("human being in a mob");
         System.out.println("rolling to the heaven");
-        System.out.println("true");
+        System.out.println("tr");
           for(int i = 0 ; i < 10 ; i++){
               if(e.getSource()== numberButtons[i]){
                   textField.setText(textField.getText().concat(String.valueOf(i)));
