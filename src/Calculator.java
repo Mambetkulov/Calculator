@@ -101,7 +101,7 @@ public class Calculator implements ActionListener {
     @Override
     public void actionPerformed(ActionEvent e) {
         
-        System.out.println("tyson");
+        System.out.println("python");
         System.out.println("who knows");
         System.out.println("h");
           for(int i = 0 ; i < 10 ; i++){
