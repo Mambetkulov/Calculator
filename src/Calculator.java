@@ -102,7 +102,7 @@ public class Calculator implements ActionListener {
     public void actionPerformed(ActionEvent e) {
         
         System.out.println("java script");
-        System.out.println("java");
+        System.out.println("ruby");
         System.out.println("c++");
           for(int i = 0 ; i < 10 ; i++){
               if(e.getSource()== numberButtons[i]){
