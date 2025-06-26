@@ -101,7 +101,7 @@ public class Calculator implements ActionListener {
     @Override
     public void actionPerformed(ActionEvent e) {
         
-        System.out.println("java script");
+        System.out.println("sasuke");
         System.out.println("ruby");
         System.out.println("rust");
           for(int i = 0 ; i < 10 ; i++){
