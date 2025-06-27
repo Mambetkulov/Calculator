@@ -101,7 +101,7 @@ public class Calculator implements ActionListener {
     @Override
     public void actionPerformed(ActionEvent e) {
         
-        System.out.println("sasuke");
+        System.out.println("lock back");
         System.out.println("naruto");
         System.out.println("kakashi");
           for(int i = 0 ; i < 10 ; i++){
