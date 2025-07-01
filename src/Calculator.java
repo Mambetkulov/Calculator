@@ -102,7 +102,7 @@ public class Calculator implements ActionListener {
     public void actionPerformed(ActionEvent e) {
         
         System.out.println("music");
-        System.out.println("array");
+        System.out.println("image");
         System.out.println("list");
           for(int i = 0 ; i < 10 ; i++){
               if(e.getSource()== numberButtons[i]){
