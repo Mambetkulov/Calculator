@@ -101,7 +101,7 @@ public class Calculator implements ActionListener {
     @Override
     public void actionPerformed(ActionEvent e) {
         
-        System.out.println("when");
+        System.out.println("true");
         System.out.println("who");
         System.out.println("where");
           for(int i = 0 ; i < 10 ; i++){
