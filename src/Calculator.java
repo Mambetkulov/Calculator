@@ -102,7 +102,7 @@ public class Calculator implements ActionListener {
     public void actionPerformed(ActionEvent e) {
         
         System.out.println("docker");
-        System.out.println("check");
+        System.out.println("aws");
         System.out.println("request");
           for(int i = 0 ; i < 10 ; i++){
               if(e.getSource()== numberButtons[i]){
