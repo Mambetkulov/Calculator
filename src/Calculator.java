@@ -102,7 +102,7 @@ public class Calculator implements ActionListener {
     public void actionPerformed(ActionEvent e) {
         
         System.out.println("who knows");
-        System.out.println("aws");
+        System.out.println("she knows");
         System.out.println("kubernate");
           for(int i = 0 ; i < 10 ; i++){
               if(e.getSource()== numberButtons[i]){
